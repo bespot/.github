@@ -12,7 +12,7 @@ Use our repos and documentation to integrate our solutions with ease.
   - [Docs](https://lv-sdk.docs.bespot.com/sdk/)
 - **Fraud Detection & Prevention:** Real-time, Multi-platform fraud detection. Bespot SAFE is a highly customisable online-fraud prevention platform that detects suspicious activities which may occur in mobile and web applications.
   - [Android SDK](https://github.com/bespot/Antifraud-SDK-Android-Release)
-  - iOS SDK
+  - [iOS SDK](https://github.com/bespot/antifraud-sdk-ios-release)
   - Web SDK
 - **Location Analytics & Insights:** Location Αnalytics helps businesses to understand and interact with their customers. By harnessing locational data, Bespot offers a comprehensive solution to decode consumer behavior patterns.
   - [Docs](https://lv-sdk.docs.bespot.com/api/)
