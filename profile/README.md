@@ -13,7 +13,7 @@ Use our repos and documentation to integrate our solutions with ease.
 - **Bespot Gatekeeper:** Real-time, Multi-platform fraud detection. Bespot Gatekeeper is a highly customisable online-fraud prevention platform that detects suspicious activities which may occur in mobile and web applications.
   - [Android SDK](https://github.com/bespot/Antifraud-SDK-Android-Release)
   - [iOS SDK](https://github.com/bespot/antifraud-sdk-ios-release)
-  - Web SDK
+  - [Web SDK](https://github.com/bespot/gatekeeper-web-sdk-release)
   - [Docs](https://gatekeeper.docs.bespot.com)
 - **Bespot Datamine:** Helps businesses to understand and interact with their customers. By harnessing locational data, Bespot offers a comprehensive solution to decode consumer behavior patterns.
   - [Docs](https://lv-sdk.docs.bespot.com/api/)
